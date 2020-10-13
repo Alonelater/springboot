@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.springboot04data.mapper.UserMapper">
+    <!--下面去整个mybatis  就是去yaml配置这些路径-->
+    <select id="queryList" resultType="User">
+        select * from learn_jdbc.user
+    </select>
+    <select id="queryUserByName" parameterType="String" resultType="User">
+        select * from learn_jdbc.user where name=#{name}
+    </select>
+
+    <insert id="addUser" parameterType="User">
+        insert into learn_jdbc.user (name,password,age) values (#{name},#{password},#{age});
+    </insert>
+    
+    <update id="updateUser" parameterType="User">
+        update user set password=#{password},age=#{age} where name =#{name};
+    </update>
+
+    <delete id="deleteUser" parameterType="String">
+        delete from USER  where  name=#{name}
+    </delete>
+</mapper>

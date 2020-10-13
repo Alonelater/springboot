@@ -1,0 +1,9 @@
+spring:
+  #禁用thymeleaf的缓存
+  thymeleaf:
+    cache: false
+
+  #配置国际化
+  messages:
+    basename: i18n.login
+#    context-path: /miao  添加项目路径 所以我们在使用thymeleaf的时候要注意看看要不要根路径th:src="@{/表示根路径}

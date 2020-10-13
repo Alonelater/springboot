@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer" />
+        <module name="mystarter-spring-boot-autoconfigurer" />
+        <module name="mystarter-spring-boot-starter" />
+        <module name="provider" />
+        <module name="sonsumer" />
+        <module name="springboot01" />
+        <module name="springboot02" />
+        <module name="springboot03" />
+        <module name="springboot04-data" />
+        <module name="springboot05-security" />
+        <module name="springboot06-shiro" />
+        <module name="springboot07-mystarter" />
+        <module name="springboot08-cache" />
+        <module name="springboot09-rabbitmq" />
+        <module name="springboot10-task" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer" target="1.8" />
+      <module name="mystarter-spring-boot-autoconfigurer" target="1.8" />
+      <module name="mystarter-spring-boot-starter" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="sonsumer" target="1.8" />
+      <module name="springboot01" target="1.8" />
+      <module name="springboot02" target="1.8" />
+      <module name="springboot03" target="1.8" />
+      <module name="springboot04-data" target="1.8" />
+      <module name="springboot05-security" target="1.8" />
+      <module name="springboot06-shiro" target="1.8" />
+      <module name="springboot07-mystarter" target="1.8" />
+      <module name="springboot08-cache" target="1.8" />
+      <module name="springboot09-rabbitmq" target="1.8" />
+      <module name="springboot10-task" target="1.8" />
+      <module name="springboot11-zookeeper" target="1.8" />
+      <module name="springboot11zookeeper" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

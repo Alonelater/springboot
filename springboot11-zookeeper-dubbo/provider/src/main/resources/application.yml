@@ -1,0 +1,8 @@
+#\u63D0\u4F9B\u8005\u7684\u540D\u5B57 \u8FD9\u6837\u5F85\u4F1A\u513F\u653E\u5728\u6CE8\u518C\u4E2D\u5FC3\u6211\u4EEC\u5C31\u65B9\u4FBF\u627E\u5230\u4E86
+dubbo:
+  application:
+    name: provider
+  registries:
+    address: zookeeper://192.1.10.200:2181
+  scan:
+    base-packages: com.provider.service

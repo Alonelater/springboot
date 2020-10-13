@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot04-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot05-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot06-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot07-mystarter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-autoconfigurer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot08-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot09-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot10-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo/sonsumer" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

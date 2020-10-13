@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    cache: false # 关闭模板引擎缓存
+  devtools:
+    restart:
+      enabled: true #开启热部署
+      additional-paths: src/main/java #重启目录
+      exclude: WEB-INF/**

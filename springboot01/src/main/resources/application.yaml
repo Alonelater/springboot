@@ -1,0 +1,23 @@
+person:
+  name: miaoyognjin
+  age : 23
+  happy: true
+  birth: 1997/7/16
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - huangshan
+    - music
+  dog:
+    name: 阿黄
+    age: 3
+---
+server:
+  port: 8084
+spring:
+  profiles:
+    active: dev
+
+---
+#springboot的多文档块就是为了加载我们在不同环境下需要不同的端口或者数据库例如
+

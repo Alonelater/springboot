@@ -1,0 +1,7 @@
+#\u5F53\u524D\u5E94\u7528\u540D\u5B57
+  #\u6CE8\u518C\u4E2D\u5FC3\u5730\u5740
+dubbo:
+  application:
+    name: consumer
+    registry:
+      address: zookeeper://192.1.10.200:2181

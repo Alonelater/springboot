@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo/consumer/consumer.iml" filepath="$PROJECT_DIR$/springboot11-zookeeper-dubbo/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-autoconfigurer/mystarter-spring-boot-autoconfigurer.iml" filepath="$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-autoconfigurer/mystarter-spring-boot-autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-starter/mystarter-spring-boot-starter.iml" filepath="$PROJECT_DIR$/springboot07-mystarter/mystarter-spring-boot-starter/mystarter-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot11-zookeeper-dubbo/provider/provider.iml" filepath="$PROJECT_DIR$/springboot11-zookeeper-dubbo/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot01/springboot01.iml" filepath="$PROJECT_DIR$/springboot01/springboot01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot02/springboot02.iml" filepath="$PROJECT_DIR$/springboot02/springboot02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot03/springboot03.iml" filepath="$PROJECT_DIR$/springboot03/springboot03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot04-data/springboot04-data.iml" filepath="$PROJECT_DIR$/springboot04-data/springboot04-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot05-security/springboot05-security.iml" filepath="$PROJECT_DIR$/springboot05-security/springboot05-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot06-shiro/springboot06-shiro.iml" filepath="$PROJECT_DIR$/springboot06-shiro/springboot06-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot07-mystarter/springboot07-mystarter.iml" filepath="$PROJECT_DIR$/springboot07-mystarter/springboot07-mystarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot08-cache/springboot08-cache.iml" filepath="$PROJECT_DIR$/springboot08-cache/springboot08-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot09-rabbitmq/springboot09-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot09-rabbitmq/springboot09-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot10-task/springboot10-task.iml" filepath="$PROJECT_DIR$/springboot10-task/springboot10-task.iml" />
+    </modules>
+  </component>
+</project>
